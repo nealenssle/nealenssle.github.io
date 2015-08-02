@@ -2,14 +2,14 @@
 layout: post
 title:  "What do <em>you</em> think?"
 date:   2009-11-22 12:05:46
-categories: managing-programmers
+tags: managing-programmers
 permalink: managing-programmers/what-do-you-think
 ---
-Part 1 in a series on [managing programmers](/posts/managing-programmers)
+*Part 1 in a series on [managing programmers](/managing-programmers)*
 
 If I have any management secret, it’s this: Every now and then, when one of my team members asks for my opinion, I try to pause and answer with one simple question:
 
-What do you think?
+**What do you think?**
 
 I’ve been managing programmers for over five years now. That’s a long time in internet years, and I’m to the point where I don’t think it would be too out of line for me to start sharing some of the tips, tricks, and techniques that I’ve learned about how to manage software developers and engineering types.
 
@@ -27,11 +27,14 @@ As managers of knowledge workers it helps if we start by recognizing that our te
 
 Moreover, we can use this one simple question to make it clear that we’re not just merely curious or playing to their egos, but that we expect our teammates to come to us having already thought through the problem, and to have a possible solution or two in mind.
 
-In my experience, asking “what do you think?” helps accomplish three things:
+In my experience, asking “what do you think?” helps accomplish **three things**:
 
-It empowers team members by letting them know that I will actively solicit their ideas.
-It sets the expectation that team members should have already thought through the problem themselves.
-It demonstrates that I care more about finding the right solution than about being the one who came up with the solution.
+1. It empowers team members by letting them know that I will actively solicit their ideas.
+
+2. It sets the expectation that team members should have already thought through the problem themselves.
+
+3. It demonstrates that I care more about finding the right solution than about being the one who came up with the solution.
+
 In five years I’ve read plenty of books and articles and blogs about management in general and managing knowledge workers in particular. But I still come back to what I learned on my first day of management. “What do you think?” is a specific, practical technique that flips the power structure on its head and helps me demand the best that my team can bring.
 
 So every now and again stop to ask your team what they think. You and your team will be better for it.

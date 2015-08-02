@@ -2,7 +2,7 @@
 layout: post
 title:  "Management by walking around"
 date:   2010-02-06 10:15:53
-categories: managing-programmers
+tags: managing-programmers
 permalink: managing-programmers/management-by-walking-around
 ---
 *Part 3 in a series on [managing programmers](/managing-programmers)*

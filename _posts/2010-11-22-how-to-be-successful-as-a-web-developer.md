@@ -2,7 +2,7 @@
 layout: post
 title:  "How to be successful as a web developer"
 date:   2010-11-22 05:17:13
-categories: career
+tags: career
 permalink: success-as-a-web-developer
 ---
 …in 5 easy steps:
@@ -15,4 +15,4 @@ permalink: success-as-a-web-developer
 
 4. Stop complaining about the technology.
 
-5. Start solving problems.
+5. **Start solving problems.**

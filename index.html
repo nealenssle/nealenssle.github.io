@@ -13,8 +13,8 @@ layout: default
         </h2>
         <p class="post-subtitle">{{ post.subtitle }}</p>
         <div class="post-content">
-          {{ post.content | truncatewords:100 }}
-          {% if word_count > 100 %}
+          {{ post.content | truncatewords:150 }}
+          {% if word_count > 150 %}
           <p class="post-content"><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
           {% endif %}
         </div>
