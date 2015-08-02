@@ -175,7 +175,7 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: 60px; // $spacing-unit;
     }
 }
 
@@ -186,7 +186,11 @@
 
 .post-link {
     display: block;
-    font-size: 36px;
+    font-size: 26px;
+}
+
+a.post-link {
+  color: $text-color;
 }
 
 
@@ -195,11 +199,11 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    // margin-bottom: $spacing-unit;
 }
 
 .post-title {
-    font-size: 36px;
+    font-size: 26px;
     // letter-spacing: -1px;
     // line-height: 1;
 
@@ -209,7 +213,7 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 20px;
 
     h2 {
         font-size: 32px;

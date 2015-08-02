@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to be successful as a web developer"
-date:   2014-04-17 05:17:13
+date:   2010-11-22 05:17:13
 categories: career
 permalink: success-as-a-web-developer
 ---
