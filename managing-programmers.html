@@ -1,0 +1,10 @@
+---
+layout: page
+title: managing programmers
+permalink: /managing-programmers/
+---
+{% for post in site.posts %}
+  {% if post.tags contains 'managing-programmers' or post.categories contains 'managing-programmers' %}
+    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+  {% endif %}
+{% endfor %}

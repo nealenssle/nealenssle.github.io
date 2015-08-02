@@ -212,11 +212,15 @@ a.post-link {
     }
 }
 
+.post-subtitle {
+    font-style: italic;
+}
+
 .post-content {
-    margin-bottom: 20px;
+    margin-bottom: 22px;
 
     h2 {
-        font-size: 32px;
+        font-size: 20px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -224,7 +228,7 @@ a.post-link {
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 18px;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -232,7 +236,7 @@ a.post-link {
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 14px;
 
         @include media-query($on-laptop) {
             font-size: 18px;
@@ -241,5 +245,5 @@ a.post-link {
 }
 
 .copyright {
-    font-size: 12px;
+    font-size: 14px;
 }

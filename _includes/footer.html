@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <p class="footer-heading"><strong>neal.enssle</strong>.me</p>
 
     <p class="text">{{ site.description }}</p>
 
@@ -38,15 +38,17 @@
           </li>
           {% endif %}
           <li>
-            <p class="rss-subscribe" style="margin-top: 20px">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+            <img src="{{ site.image_path }}/icons/twitter.png" alt="Twitter" width="" height="" border="0" />
+          </li>
+          <li>
+            <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
           </li>
         </ul>
       </div>
 
-      <div class="footer-col">
-        <p class="copyright">Copyright &copy; 2015 by Neal Enssle</p>
-      </div>
     </div>
+
+    <p class="copyright">Copyright &copy; 2015 by Neal Enssle</p>
 
   </div>
 

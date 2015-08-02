@@ -11,13 +11,14 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <p class="post-subtitle">{{ post.subtitle }}</p>
         <div class="post-content">
           {{ post.content | truncatewords:100 }}
           {% if word_count > 100 %}
           <p class="post-content"><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
           {% endif %}
         </div>
-        <p class="post-meta">Posted: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a> by Neal Enssle | <a href="{{ post.url | prepend: site.baseurl }}">permalink</a></p>
+        <p class="post-meta">posted: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }}</a> | tags: {{ post.tags }} | <a href="{{ post.url | prepend: site.baseurl }}">permalink</a></p>
       </li>
     {% endfor %}
   </ul>
