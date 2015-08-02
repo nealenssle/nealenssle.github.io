@@ -103,9 +103,21 @@
 }
 
 .contact-list,
+
 .social-media-list {
     list-style: none;
     margin-left: 0;
+}
+.social-media-list li {
+    display: inline;
+}
+.social-media-list li a {
+    float: left;
+    width: 44px;
+}
+
+.footer-text {
+  margin-bottom: 20px;
 }
 
 .footer-col-wrapper {
@@ -245,5 +257,7 @@ a.post-link {
 }
 
 .copyright {
+    clear: both;
+    padding: 40px 0 40px 0;
     font-size: 14px;
 }

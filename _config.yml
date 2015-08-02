@@ -2,7 +2,7 @@
 title: neal.enssle.me
 email: neal.enssle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog mostly about managing programmers, engineers, designers and technical types. By Neal Enssle.
+  A blog mostly about managing programmers, engineers, developers, designers, technical and creative types. By Neal Enssle.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://neal.enssle.me" # the base hostname & protocol for your site
 image_path: "/images"
