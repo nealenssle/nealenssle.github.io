@@ -2,7 +2,7 @@
 layout: post
 title:  "How to roll your own Ajax"
 date:   2006-09-26 05:47:32
-categories: career
+tags: programming
 permalink: roll-your-own-ajax
 ---
 A little while ago I decided I needed to get my head around this whole “[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))” thing. From Wikipedia:
