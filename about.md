@@ -6,7 +6,7 @@ permalink: /about/
 
 This is a blog mostly about managing programmers, engineers, developers, designers, technical and creative types.
 
-My name is **Neal Enssle**. I'm Director of Software Development at [LogRhythm](http://www.logrhythm.com), a Boulder-based company specializing in security intelligence. I managed several teams of software developers and our user experience design team. We're working on building a next-generation user interface for some of best security software in the world. In past lives I've worked at [Rally](http://rally.com), [Foraker Labs](http://www.foraker.com), [Acxiom](http://acxiom.com), and the [University of Chicago](http://uchicago.edu).
+My name is **Neal Enssle**. I'm Director of Software Development at [LogRhythm](http://www.logrhythm.com), a Boulder-based company specializing in security intelligence. I manage several teams of software developers and our user experience design team. We're working on building a next-generation user interface for some of best security software in the world. In past lives I've worked at [Rally](http://rally.com), [Foraker Labs](http://www.foraker.com), [Acxiom](http://acxiom.com), and the [University of Chicago](http://uchicago.edu).
 
 More more career info, check out my [LinkedIn](https://www.linkedin.com/in/nealenssle) page.
 
