@@ -18,7 +18,7 @@ layout: default
           <p class="post-content"><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
           {% endif %}
         </div>
-        <p class="post-meta">posted: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }}</a> | tags: {{ post.tags }} | <a href="{{ post.url | prepend: site.baseurl }}">permalink</a></p>
+        <p class="post-meta">posted: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }}</a> | tags: <a href="/{{ post.tags }}">{{ post.tags }}</a> | <a href="{{ post.url | prepend: site.baseurl }}">permalink</a></p>
       </li>
     {% endfor %}
   </ul>
