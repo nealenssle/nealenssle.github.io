@@ -237,6 +237,7 @@ a.post-link {
 
     h2 {
         font-size: 20px;
+        color: $grey-color-dark;
 
         @include media-query($on-laptop) {
             font-size: 20px;
@@ -244,18 +245,18 @@ a.post-link {
     }
 
     h3 {
-        font-size: 18px;
+        font-size: 16px;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 16px;
         }
     }
 
     h4 {
-        font-size: 14px;
+        font-size: 12px;
 
         @include media-query($on-laptop) {
-            font-size: 14px;
+            font-size: 12px;
         }
     }
 }
