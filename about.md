@@ -10,6 +10,6 @@ My name is **Neal Enssle**. I'm Director of Software Development at [LogRhythm](
 
 More more career info, check out my [LinkedIn](https://www.linkedin.com/in/nealenssle) page.
 
-In my free time I volunteer as President on the Board of Directors at [Flagstaff Academy](http://flagstaffacademy.org), where my two kids go to school. It's a pretty amazing school, and they're pretty amazing kids. I also coach soccer and generally try to help my wife, Tara, pay attention to all the amazing things the kids are doing.
+I'm the father of two youngsters. In my free time I volunteer as President on the Board of Directors at [Flagstaff Academy](http://flagstaffacademy.org), where my two kids go to school. It's a pretty amazing school, and they're pretty amazing kids. I also coach soccer and generally try to help my amazing wife, Tara, pay attention to all the amazing things the kids are doing.
 
 If you want to get in touch, hit me on email at the link below, or via [LinkedIn](https://www.linkedin.com/in/nealenssle).
