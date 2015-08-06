@@ -6,6 +6,7 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
+      {% assign word_count_limit = 120 %}
       {% assign word_count = post.content | number_of_words %}
       <li>
         <h2>
@@ -13,9 +14,9 @@ layout: default
         </h2>
         <p class="post-subtitle">{{ post.subtitle }}</p>
         <div class="post-content">
-          {{ post.content | truncatewords:150 }}
-          {% if word_count > 150 %}
-          <p class="post-content"><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
+          {{ post.content | truncatewords:word_count_limit }}
+          {% if word_count > word_count_limit %}
+          <p class="post-content"><a href="{{ post.url | prepend: site.baseurl }}">read more...</a></p>
           {% endif %}
         </div>
         <p class="post-meta">posted: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%B %-d, %Y" }}</a> | tags: <a href="/{{ post.tags }}">{{ post.tags }}</a> | <a href="{{ post.url | prepend: site.baseurl }}">permalink</a></p>
