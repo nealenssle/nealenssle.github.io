@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "My management philosophy"
-date:   2013-05-11 06:53:19
-tags: managing-programmers
-permalink: managing-programmers/management-philosophy
+title: My management philosophy
+date: {}
+tags: "managing-programmers"
+permalink: "managing-programmers/management-philosophy"
+published: true
 ---
+
 *Part 5 in a series on [managing programmers](/managing-programmers)*
 
 Here’s a list of some of the things about management that I expect from myself, and from people I work with and for:
@@ -15,7 +17,7 @@ Here’s a list of some of the things about management that I expect from myself
 
 **Trust:** Believe in people. Actively demonstrate confidence in their abilities. Look them in the eye and openly affirm your trust, keeping any private doubts locked away. These are things that empower. Delegate actively but always with a commitment to help, to teach, and to learn. Tell people you have their back, and then be there when they need you. We gain trust from others when we actually do what we committed to doing.
 
-**Compassion:** I believe there are at least two sides to every story, and that people generally have a reason for doing what they do. Reserve judgment as long as possible, and avoid assigning blame before you have talked to everyone involved. Deliver bad news in private whenever possible. Work to build up relationships built on mutual respect and understanding, and prefer talking with someone to talking about someone. Never say anything you wouldn’t say to their face.
+**Compassion:** Always try to assume positive intent, and that bad actors are rare. I believe there are at least two sides to every story, and that people generally have a reason for doing what they do. Reserve judgment as long as possible, and avoid assigning blame before you have talked to everyone involved. Deliver bad news in private whenever possible. Work to build up relationships built on mutual respect and understanding, and prefer talking with someone to talking about someone. Never say anything you wouldn’t say to their face.
 
 **Leadership:** People expect leaders to act like leaders. Stand up on stage and play the role to the best of your ability (yes, everyone is always watching). It is your job to make (hard) decisions, so make the call, take the shot. Leaders understand that inspiration is better than motivation, and that people matter more than processes, systems, or things. Leaders are often friendly but rarely friends with those they lead. Parenting may be a useful mental model if you remember that good parents are always responsible, always making mistakes, always learning, always doubting themselves, always and deeply caring, and always willing to make sacrifices and put the needs of their family in front of their own desires.
 
