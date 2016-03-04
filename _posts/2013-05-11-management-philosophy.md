@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My management philosophy
-date: {}
+date: 2013-05-11 06:23
 tags: "managing-programmers"
 permalink: "managing-programmers/management-philosophy"
 published: true
