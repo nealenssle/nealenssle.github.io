@@ -3,9 +3,35 @@
   <title>Todoist: Move overdue items to today</title>
 </head>
 <body>
-  <p>Hello world!</p>
   <script type="text/javascript" language="Javascript">
+    const TODOIST_API_BASE_URL = "https://beta.todoist.com/API/v8";
+    const TOKEN = new URL(window.location.href).searchParams.get("token");
     
+    let tasksUrl = TODOIST_API_BASE_URL + "/tasks?filter=overdue&token=" + TOKEN;
+
+    fetch(tasksUrl)
+      .then(response => response.json())
+      .then(tasks => { 
+        for (let i = 0; i < tasks.length; i++) {
+          let taskUrl = TODOIST_API_BASE_URL + "/tasks/" + tasks[i].id + "?token=" + TOKEN;
+          
+          let today = () => {
+            let date = new Date();
+            date.setMinutes(date.getMinutes() - date.getTimezoneOffset());
+            return date.toISOString().slice(0,10);
+          }
+
+          fetch(taskUrl, {
+            method: 'post',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ due_date: today() })
+          });
+        }
+      });
   </script>
+  <h1>Todoist: Move overdue items to today</h1>
+  <p>Call this page with a valid Todoist "token" URL parameter to change the due date of all overdue items to today (e.g. http://neal.enssle.me/pages/todoist_overdue_to_today.html?token=1234567890abcdef).</p>
+  <p>Tip: Try using IFTTT to call a Webhooks module at a given time every day.</p>
+  <p>By <a href="http://neal.enssle.me">Neal Enssle</a></p>
 </body>
 </html>
