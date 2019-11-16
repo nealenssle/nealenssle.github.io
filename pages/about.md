@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 My name is **Neal Enssle**. And this is a blog filled with my ramblings -- mostly about managing programmers, engineers, developers, designers, and creative types.
