@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-My name is **Neal Enssle**. And this is a blog filled with my ramblings -- mostly about managing programmers, engineers, developers, designers, and creative types.
+My name is **Neal Enssle**. And this is a blog filled with my ramblings -- mostly about managing programmers, engineers, developers, designers, and creative types. I also have a page where I have collected some of my favorite [quotations](/quotes) about programming, leadership, productivity, design, and quality.
 
 I'm currently Senior Director of Engineering at [Recurly](http://www.recurly.com), a fast-growing Boulder-based financial technology (fintech) company specializing in providing enterprise-class recurring billing, revenue optimization, and subscription management services for thousands of businesses worldwide. I lead several teams of full-stack software developers (both onsite and remote) including our payments, 3rd-party integrations, and developer experience teams. 
 
