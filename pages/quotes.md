@@ -4,13 +4,15 @@ title: Quotations
 permalink: /quotes
 ---
 
-- [programming](#programming)
-- [productivity](#productivity)
-- [leadership](#leadership)
-- [design](#design)
-- [quality](#quality)
-- [sources](#sources)
+- [programming](#programming-anchor)
+- [projects and productivity](#productivity-anchor)
+- [leadership and management](#leadership-anchor)
+- [design](#design-anchor)
+- [quality](#quality-anchor)
+- [sources](#sources-anchor)
 
+<a name="programming-anchor"></a>
+<br />
 <hr /><br />
 
 ### programming
@@ -51,10 +53,11 @@ permalink: /quotes
 
 "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail." &ndash; _Max Kanat-Alexander_
 
+<a name="productivity-anchor"></a>
 <br />
 <hr /><br />
 
-### productivity
+### projects and productivity
 
 "Weeks of programming can save hours of planning." &ndash; _Unknown_
 
@@ -65,6 +68,8 @@ permalink: /quotes
 "Brooks' Law: Adding manpower to a late software project makes it later." &ndash; _Frederick Brooks_
 
 "What one programmer can do in a month, two programmers can do in two." &ndash; _Frederick Brooks_
+
+"Much of the essence of building a program is in fact the debugging of the specification." &ndash; _Frederick Brooks_
 
 "When people say that pair programming reduces productivity, I answer that would be true if the most time consuming part of programming was typing." &ndash; _Martin Fowler_
 
@@ -90,10 +95,11 @@ permalink: /quotes
 
 "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." &ndash; _Seymour Cray_
 
+<a name="leadership-anchor"></a>
 <br />
 <hr /><br />
 
-### leadership
+### leadership and management
 
 "If you don't trust the people, you make them untrustworthy." &ndash; _Lao Tzu_
 
@@ -123,6 +129,7 @@ permalink: /quotes
 
 "Enthusiasm is table stakes for a junior developer." &ndash; _Neal Enssle_
 
+<a name="design-anchor"></a>
 <br />
 <hr /><br />
 
@@ -138,6 +145,7 @@ permalink: /quotes
 
 "Innovation has nothing to do with how many R&D dollars you have. When Apple came up with the Mac, IBM was spending at least 100 times more on R&D. It's not about money. It's about the people you have, how you're led, and how much you get it." &ndash; _Steve Jobs_
 
+<a name="quality-anchor"></a>
 <br />
 <hr /><br />
 
@@ -153,6 +161,7 @@ permalink: /quotes
 
 "Vacation-oriented architecture (VOA): The practice of designing a system in such a way as to allow one to take an occasional vacation." &ndash; _Neal Enssle_
 
+<a name="sources-anchor"></a>
 <br />
 <hr /><br />
 
