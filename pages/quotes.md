@@ -49,6 +49,8 @@ permalink: /quotes
 
 "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." &ndash; _Andy Hunt_
 
+"Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail." &ndash; _Max Kanat-Alexander_
+
 <br />
 <hr /><br />
 
@@ -86,10 +88,16 @@ permalink: /quotes
 
 "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing." &ndash; _Dick Brandon_
 
+"The trouble with programmers is that you can never tell what a programmer is doing until it's too late." &ndash; _Seymour Cray_
+
 <br />
 <hr /><br />
 
 ### leadership
+
+"If you don't trust the people, you make them untrustworthy." &ndash; _Lao Tzu_
+
+"A leader is best when people barely know he exists.  When his work is done, his aim fulfilled, they will say:  We did it ourselves." &ndash; _Lao Tzu_
 
 "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing." &ndash; _Theodore Roosevelt_
 
@@ -151,5 +159,6 @@ permalink: /quotes
 ### sources
 
 - [Programming Wisdom](https://twitter.com/CodeWisdom)
+- [GoodReads](https://www.goodreads.com/quotes/tag/programming)
 
 
