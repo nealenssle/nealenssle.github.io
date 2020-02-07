@@ -145,6 +145,8 @@ permalink: /quotes
 
 "Innovation has nothing to do with how many R&D dollars you have. When Apple came up with the Mac, IBM was spending at least 100 times more on R&D. It's not about money. It's about the people you have, how you're led, and how much you get it." &ndash; _Steve Jobs_
 
+"Without requirements or design, programming is the art of adding bugs to an empty text file.” &ndash; _Louis Srygley_
+
 <a name="quality-anchor"></a>
 <br />
 <hr /><br />
