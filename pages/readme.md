@@ -13,13 +13,13 @@ permalink: /README
 
 <h2 style="padding-top: 0px">Hi, I'm Neal</h2>
 
-This is my [manager README](https://www.google.com/search?q=manager+readme), a document that is intended to help introduce you to my understanding of my role as a software engineering manager, my leadership style and management philosophy, my general expectations for folks I work with, and other useful information about me (including some quirks). The intended audience is primarily anyone who reports up to me, though anyone is free to read it - or even provide feedback on it! Please treat it as a reference on some of my expectations and as a promise on how I will try to conduct myself as a manager. Please also understand this is a work always in progress!
+This is my **[manager README](https://www.google.com/search?q=manager+readme)**, a document that is intended to help introduce you to my understanding of my role as a software engineering manager, my leadership style and management philosophy, my general expectations for folks I work with, and other useful information about me (including some quirks). The intended audience is primarily anyone who reports up to me, though anyone is free to read it - or even provide feedback on it! Please treat it as a reference on some of my expectations and as a promise on how I will try to conduct myself as a manager. Please also understand this is a work always in progress!
 
 <ul class="toc">
     <li><a href="#manager-job-anchor">What do managers even do?</a></li>
     <li><a href="#expectations-anchor">My core expectations</a></li>
     <li><a href="#say-anchor">Things you may hear me say</a></li>
-    <li><a href="#do-anchor">Things you will probably see me do](#do-anchor)</a></li>
+    <li><a href="#do-anchor">Things you will probably see me do</a></li>
     <li><a href="#do-not-anchor">Things you will almost never see me do</a></li>
     <li><a href="#one-on-ones-anchor">One-on-ones</a></li>
     <li><a href="#feedback-anchor">Feedback</a></li>
