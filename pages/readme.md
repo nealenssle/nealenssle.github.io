@@ -177,7 +177,7 @@ I’m happily married and the proud father of two pretty amazing youngsters, Ann
 
 ## Reading list
 
-Here is a very short list of books that I consider "required reading". I'd love to talk to you about why!
+Here is a very short list of books that I consider "required reading". I'd love to talk to you about why! Also: I like to collect [quotations](/quotes) about life in software engineering -- check 'em out!
 
 **Non-Fiction**
 
