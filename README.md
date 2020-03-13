@@ -1,6 +1,5 @@
-# nealenssle.github.io
-https://help.github.com/articles/using-jekyll-with-pages/
+# neal.enssle.me
 
-Start:
+## README
 
-bundle exec jekyll serve
+See: http://neal.enssle.me/readme

@@ -17,9 +17,10 @@
 
         <div class="trigger">
           {% if page.url != "/" %}<a class="page-link" href="/">home</a>{% endif %}
-          <a class="page-link" href="/about">about</a>
-          <a class="page-link" href="/quotes">quotations</a>
-          <a class="page-link" href="/archive">archive</a>
+          <a class="page-link" href="/about" {% if page.permalink == '/about' %}style="font-weight: bold"{% endif %}>about</a>
+          <a class="page-link" href="/README" {% if page.permalink == '/README' %}style="font-weight: bold"{% endif %}>README</a>
+          <a class="page-link" href="/quotes" {% if page.permalink == '/quotes' %}style="font-weight: bold"{% endif %}>quotations</a>
+          <a class="page-link" href="/archive" {% if page.permalink == '/archive' %}style="font-weight: bold"{% endif %}>archive</a>
         </div>
       </nav>
 

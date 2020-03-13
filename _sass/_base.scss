@@ -74,6 +74,14 @@ li {
     }
 }
 
+li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+ul.toc li {
+    margin-bottom: 0px;
+}
+
 
 
 /**
@@ -100,6 +108,13 @@ a {
         color: $brand-color;
         text-decoration: underline;
     }
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -75px;
+    visibility: hidden;
 }
 
 
