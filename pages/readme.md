@@ -156,6 +156,7 @@ One of the best ways I've found to help people improve and develop is to delegat
 - This also means I will almost never ask you to work late or work weekends or holidays unless there's a true emergency. Again: Emergencies happen sometimes, but I'll be clear about what needs doing, what my expectations are, and will do my best to make sure we do what we can to make you whole for any extra time.
 - I am a morning person. Five o'clock in the morning is not particularly early for me to be up and about. I will try to avoid messaging you early, but sometimes it happens. 
 - I am not a night owl. I'm usually in bed by 9:00PM. That being said, if you ever have an emergency (e.g. you're en route to the hospital or something like that) don't hesitate to call. 
+- Sometimes I work on the weekends or holidays. This is my choice. It is not my expectation for you. If you see me working early, late, on weekends, or holidays, please know this is not some weird subtle ploy to get you to work more or to feel bad, or to feel sorry for me. Again: If the organization needs extra effort I will ask you for that explicitly (and hopefully provide a damn good reason).
 
 <a class="anchor" name="personality-anchor"></a>
 
