@@ -70,24 +70,26 @@ Managers are communicators. Managers are coordinators. Managers are facilitators
 - This is more about shades of gray than black/white...
 - What is your level of confidence here?
 - When do you think you might be able to realistically get this done?
+- Do we have tests for this?
+- Can you draw me a picture of how that works?
 - What could possibly go wrong? (Note: Sarcasm!).
 
 <a class="anchor" name="do-anchor"></a>
 
 ## Things you will probably see me do
 
+- Asking lots of questions until I understand.
 - Having lots of one-on-one meetings with folks on my teams (directs and indirects).
 - Having lots of one-on-one meetings with key folks in the organization (so I can help my teams).
 - Showing up to stand-up most days, and as many team ceremonies as possible.
-- Trying not to run meetings or ceremonies unless I'm actually the best person to do so.
-- Asking lots of questions until I understand.
+- Delegating the running of meetings or ceremonies unless I'm actually the best person to run them.
 - Asking for commitments (ballparks and rough estimates are almost always fine).
 - Reading code and sometimes offering gentle opinions or asking questions about it.
-- Asking you for feedback (on me, on the team, on the process, etc.).
+- Asking for feedback (on me, on the team, on the process, etc.).
 - Giving positive and constructive feedback privately.
+- Trusting people by default.
 - Assuming positive intent.
 - Assuming that you'll get things done when you said you'd get things done.
-- Trusting people by default.
 - Owning outcomes when things go wrong.
 
 <a class="anchor" name="do-not-anchor"></a>
@@ -112,7 +114,7 @@ My goal for one-on-ones is very simple: I want us to get to know each other bett
 
 Really, one-on-ones are about building relationships. Yes, that's as soft and fluffy as it sounds. The main thing is: when things go sideways, I don't want that to be the first time we've spoken in three weeks. I want us to have a solid working relationship (know what makes each other tick) so we can communicate effectively during the crisis. 
 
-To be clear: I want our one-on-one to be a safe place; if this isn't the case please tell my boss.
+To be clear: I want our one-on-one to be a safe place; if this isn't the case please tell my boss/HR.
 
 <a class="anchor" name="feedback-anchor"></a>
 
@@ -159,20 +161,35 @@ One of the best ways I've found to help people improve and develop is to delegat
 
 ## Personality and quirks
 
-- So many quirks! ;-)
-- I am an introvert by nature (I recharge by spending time alone), but you will likely perceive me as more of an extrovert. My job as a manager makes me act more extroverted than I often feel. Believe it or not, I enjoy this.
-- I greatly appreciate humor, and often use it intentionally. But I know different people find different things funny. If I cross a line at any point, please let me know.
-- When it comes to talking about "how", I'm usually brainstorming. Again: I don't feel it's my job to be the technical expert (that's your job). My job is to ask lots of questions and make sure we've thought about things both broadly and deeply before we commit. I will try to phrase candidate opinions in the form of questions -- and you can usually assume that unless I've said explicitly "let's go left", that "right" remains an option. Put differently: Assume I'm brainstorming with you until we've arrived at a decision.
-- It's difficult to piss me off at work. See above where I talk about honesty and communication. Do those two things consistently and we're going to get along great!
-- I prefer not to be surprised, even though I feel I'm pretty good at dealing with surprises. Free career advice: Avoid surprising your boss. I'd much rather hear about the bad news (or good news!) as soon as you get a sense there's a problem than hear about it later.
+- People first. I believe that informed and productive people build fantastic products, and that productive people tend to be happier. I optimize for the people. Other leaders will optimize for the business, the process, the technology, the tasks. These can all be important, but I tend to start with people and the relationships between them.
+- I default to trusting the people I work with. I trust them to be smart, to know what they're doing, to be operating with positive intent, and to communicate when things start to go sideways. This has generally worked out well for me in my career. 
+- If you need to talk, or need me to know something, please don't worry about interrupting me. Most of my job as a manager is to be in "[interrupt mode](http://neal.enssle.me/managing-programmers/life-in-interrupt-mode)". That's so most of the creative types on the team (e.g. engineers, designers, etc.) can stay in "[flow](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202)". So assume you can have my attention when you need it, and if I can't talk right then I'll let you know and will make time to get back to you. 
+- I am an introvert by nature (I recharge by spending time alone), but you will likely perceive me as more of an extrovert. My job as a manager has me act more extroverted than I often feel. Believe it or not, I enjoy this.
+- I am a visual learner, and really appreciate pictures, especially things like systems diagrams or flow diagrams. You will make me happy if you literally "draw me a picture of how that works".  
+- I tend to try to simplify problems and systems. It's how I think I know something -- if I can provide a relatively simple explanation or analogy or diagram of a system then I feel I understand it. However, this may at times sound like *oversimplification*, especially to engineers. Please understand that simplifying complex problems or systems is part of my job as a leader, and is often how I communicate to other leaders (especially non-technical folks). As an engineer, I do get that things are usually "somewhat more complicated". My ask is for you to be tolerant of my tendency toward simplification but to please let me know if you really feel my simplification is *dangerously* oversimplified -- i.e. I'm missing key risks or hidden complexities or dramatically understating the effort required.
+- When it comes to talking about "how we should do/build/implement something", I'm usually brainstorming. Again: I don't feel it's my job to be the technical expert (that's your job). My job is to ask lots of questions and make sure we've thought about things both broadly and deeply before we commit. I will try to phrase candidate opinions in the form of questions -- and you can usually assume that unless I've said explicitly "let's go left", that going "right" still remains an option. Put differently: Assume I'm brainstorming with you until we've arrived at a decision. Related: If I ask you to do something that feels poorly defined, please let me know -- I may still be brainstorming. 
+- Most conflict management trainings I've been to identify my conflict style as "compromising" (vs. confrontational or acquiescing) -- I tend to want to find the middle ground or happiest medium. I believe that overt conflict (e.g. yelling at each other) is rarely necessary and hardly ever acceptable in a professional environment. We should be able to disagree in ways that are professional, polite, and productive. 
+- I can be overly subtle with negative or constructive feedback. It's been my experience that most of the folks I work with are extremely smart and very sensitive, and already know they've screwed up before I tell them. Often the most I need to do is hint at the problem because they're already working on a fix. But some people need more explicit and clear feedback (e.g. "please hit me over the head with a board when I mess up, otherwise I won't know"). So please just let me know if you're the kind of person who needs/prefers/wants very direct feedback when things aren't right. I'm working on this, and can be more direct when it's required.
+- I greatly appreciate humor, and often use it intentionally. But I know different people find different things funny. If I cross a line at any point, please let me know. 
+- I also swear sometimes, usually for effect or to draw attention to something important. Sorry. Again: Please let me know if this bothers you.
 
-**Personality tests:** I actually love these. I've been both an ENTJ and an INTJ (borderline E/I) on Myers-Briggs. If DiSC is your thing, I tend towards high "I" and "D", with a fair amount of "C". Most conflict management trainings I've been to identify my style as "compromising" (vs. confrontational or acquiescing) -- I tend to want to find the middle ground or happiest medium.
+**Triggers:**
+- People saying things that sound like "that's not my job" are a trigger for me. If it best serves the team and the company for me to make the coffee or order the pizza or clean up the break room, then that's my job.
+- Related: I believe quality assurance is everyone's job. I love to work with amazing QA engineers. They see the world differently than most developers, and add tremendous value. But even having QA engineers on a team does not provide an excuse for the developers to not test their own code or for product leaders not to review features and fixes.
+- People saying things that sound like "that's impossible" or "there's only one way to solve this" are a trigger for me. Again: I believe most problems and situations are defined in shades of gray, not black/white. And this is software -- honestly almost anything is possible if think hard enough and we're willing to pay the costs.
+- People who consistently blame other people for their problems, failures, or mistakes are a trigger for me. I admire people who immediately and openly own their mistakes. Related: I am very okay with mistakes, as long as we avoid repeating them. Mistakes are how we learn and grow. Ask me sometime about how I learned the importance of the `WHERE` clause in an `UPDATE` statement. ;-)
+- I don't like long, unfocused meetings. I myself will rarely schedule a meeting longer than 30 minutes. Please let me know if my meetings are wandering, or if you're being asked to attend meetings that aren't focused and productive.
+- I prefer not to be surprised, even though I feel I'm pretty good at dealing with surprises. Free career advice: Always avoid surprising your boss. I'd much rather hear about the bad news (or good news!) as soon as you get a sense there's a problem than hear about it later. See above on "honesty and communications".
+
+**Personality tests and frameworks:** 
+
+I actually love these. I've been both an ENTJ and an INTJ (borderline E/I) on Myers-Briggs. If DiSC is your thing, I tend towards high "I" and "D", with a fair amount of "C". I've done a ton of other systems as well and enjoy learning more about myself and others on my team via personality assessment frameworks.
 
 <a class="anchor" name="outside-anchor"></a>
 
 ## Outside of work
 
-I’m happily married and the proud father of two pretty amazing youngsters, Anna and Noah. In my free time I enjoy hiking, camping, reading, the occasional romp through Skyrim, and playing D&D when I can find time. I volunteer on the Board of Directors at Flagstaff Academy, where the kids attend school. I also generally try to help Tara, my amazing wife, shine as an elementary school special-education teacher in the St. Vrain Valley School District. The four of us, along with Oliver the cat, live in sunny Longmont, Colorado.
+I’m happily married and the proud father of two pretty amazing youngsters, Anna and Noah. In my free time I enjoy hiking, camping, reading, the occasional romp through Skyrim, and playing D&D when I can find time. I volunteer on the board of directors at Flagstaff Academy, where the kids attend charter school (though Anna is now off to high school in the fall!). I also generally try to help Tara, my amazing wife, shine as an elementary school special-education teacher in the St. Vrain Valley School District. The four of us, along with [Oliver](https://www.icloud.com/photos/#0IMlKR8s0YGCEJyMLNcxCDxKw) the cat, live in sunny Longmont, Colorado.
 
 <a class="anchor" name="reading-anchor"></a>
 
