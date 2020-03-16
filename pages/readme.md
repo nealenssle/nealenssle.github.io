@@ -24,6 +24,8 @@ This is my **[manager README](https://www.google.com/search?q=manager+readme)**,
     <li><a href="#one-on-ones-anchor">One-on-ones</a></li>
     <li><a href="#feedback-anchor">Feedback</a></li>
     <li><a href="#growth-anchor">Growth, coaching, career development</a></li>
+    <li><a href="#process-anchor">Process and project management</a></li>
+    <li><a href="#technology-anchor">On technology</a></li>
     <li><a href="#calendars-anchor">Calendars and communication</a></li>
     <li><a href="#personality-anchor">Personality and quirks</a></li>
     <li><a href="#outside-anchor">Outside of work</a></li>
@@ -49,7 +51,7 @@ Managers are communicators. Managers are coordinators. Managers are facilitators
 
 **Honesty and communication.** I have two fundamental expectations for everyone I work with: honesty and communication. You'll often hear me say that I believe that better communication can solve 95% of most problems. And honesty is the foundation of trust and safety, and without safety we're going to be less effective, less creative, less innovative, and ultimately less productive. I believe that if we can have open, honest, positive, respectful, and candid discussions then most other problems can and will take care of themselves.
 
-**Solution orientation.** I ask everyone on my teams to try hard to focus on solutions, and not just on finding more problems (which can be hard because, as engineers, focusing on what's wrong / what's broken / what needs fixing is *literally* our job). Our goal should always be to find the middle ground, the happy medium, or the best compromise possible that results in everyone getting at least some part of what they wanted. And in my book there's rarely only one solution, so I ask folks to always try to think in terms of a range of options -- shades of gray instead of just black or white.
+**Solution orientation.** I ask everyone on my teams to try hard to focus on solutions, and not just on finding more problems (which can be hard because, as engineers, focusing on what's wrong / what's broken / what needs fixing is *literally* our job). Our goal should always be to find the middle ground, the happy medium, or the best compromise possible that results in everyone getting at least some part of what they wanted. And in my book there's rarely only one solution, so I ask folks to always try to think in terms of a diversity of options -- shades of gray instead of just black or white.
 
 **Assume positive intent.** Moreover, I believe most of us are trying to do the right thing most of the time. I believe it is extremely rare for someone in the organization to intentionally try to cause harm or impede progress. I try to work hard to figure out why someone might seem to be doing something that seems like blocking or obstrucing, because often they aren't doing it without a reason that is at least valid to them. There's almost always two or three sides to every story. And so I ask everyone on my team to assume positive intent and try to avoid "us vs. them" patterns of thinking because they are rarely useful in solving problems. 
 
@@ -63,6 +65,7 @@ Managers are communicators. Managers are coordinators. Managers are facilitators
 
 - I believe that 95% of our problems can be solved with better communication.
 - There are almost always two or three sides to every story.
+- I believe in agile with a small "a".
 - What do *you* think?
 - This is probably a stupid question, but...
 - Have we tried asking the other team?
@@ -144,6 +147,28 @@ As a manager, I'm always here to help, but at the end of the day, it’s your ca
 
 One of the best ways I've found to help people improve and develop is to delegate responsibility to them. I'll almost never do this without talking about it to make sure you understand what needs doing and feel comfortable with it. But if there's something you're able to do, or can do better than I can, I'll be looking for ways to help you, the team, and the organization grow by delegating ownership to you.
 
+<a class="anchor" name="process-anchor"></a>
+
+## Process and project management
+
+I believe in Agile, but with a small "a". That is: I believe in the principles originally outlined in the [Agile Manifesto](https://agilemanifesto.org/), as opposed to being strongly aligned with any specific system (e.g. Scrum, Kanban, SAFE, etc.). For me, iterating the process via frequent retrospectives is the key. Put differently: I think the most important thing in any process is to have a means and mechanism for review and evolution of the process itself. On a regular basis we need to pause, review, and look to keep what's working and change what's not. 
+
+Project management boils down to knowing who is doing what by when. It's that simple, but it's also extremely important. I believe it is a valid expectation for the business to want to know what folks are working on and when they can expect to see features and improvements delivered. Project management is just the means of managing that information. Again: I'm generally very flexible with regards to the specifics of how we measure and communicate project status, but I think it's a fair expectation for us as engineers to participate positively in project management processes.
+
+<a class="anchor" name="technology-anchor"></a>
+
+## On technology
+
+My own roots as an engineer are as a "full stack" web applications developer (yes, at one point I even briefly had a "Webmaster" title!). I'm the kind of developer who enjoys talking about everything from the structure of the database, to how we're handling business logic decisions, to how things should look on the page (colors, spacing, and fonts, oh my!), to how to create optimal user flows through the system. I have experience working with both front-end and back-end teams and technologies, and I've led user experience design teams as well. I don't have as much experience on the infrastructure or networking side of things yet, but I'm always trying to learn more.
+
+I'm generally pretty agnostic with regards to specific technologies and frameworks. My go-to language is [Ruby](https://www.ruby-lang.org/en/), but I firmly believe that there are different tools for different jobs. 
+
+As a leader, I do think it is important for organizations to have a sound technology evolution stategy. That is: We need to have a plan for how we're going to evolve our technology stack (so as to avoid stagnation and developer attrition) that also isn't just a total free-for-all adoption of whatever the latest flavor of the month might be. I've found that maintaining a [technology radar](https://www.thoughtworks.com/radar) is a useful tool for this.
+
+With regards to "architecture": In general, I think that good ideas can come from everywhere and everyone on the team. I'm a fan of creating systems and processes that allow technology and architectural decisions to bubble up from individuals and teams, while simultaneously providing for appropriate cross-team and cross-functional risk analysis and review.
+
+I do feel that curiosity is extremely important for engineers. Things change and evolve rapidly in our field, and it's important for folks to dedicate some time to learning and growing their skillset. "Growth" conversations with me will definitely include discussions about "what are you learning?" or "what technolgy trends are you most excited about?".
+
 <a class="anchor" name="calendars-anchor"></a>
 
 ## Calendars and communications
@@ -175,6 +200,7 @@ One of the best ways I've found to help people improve and develop is to delegat
 - I also swear sometimes, usually for effect or to draw attention to something important. Sorry. Again: Please let me know if this bothers you.
 
 **Triggers:**
+
 - People saying things that sound like "that's not my job" are a trigger for me. If it best serves the team and the company for me to make the coffee or order the pizza or clean up the break room, then that's my job.
 - Related: I believe quality assurance is everyone's job. I love to work with amazing QA engineers. They see the world differently than most developers, and add tremendous value. But even having QA engineers on a team does not provide an excuse for the developers to not test their own code or for product leaders not to review features and fixes.
 - People saying things that sound like "that's impossible" or "there's only one way to solve this" are a trigger for me. Again: I believe most problems and situations are defined in shades of gray, not black/white. And this is software -- honestly almost anything is possible if we think hard enough and we're willing to pay the costs.
