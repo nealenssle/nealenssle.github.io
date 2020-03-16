@@ -232,6 +232,7 @@ Here is a very short list of books that I consider "required reading". I'd love 
 - Michael Feathers, [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=sr_1_1?keywords=feathers+legacy&qid=1584115975&sr=8-1)
 - Chad Fowler, [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U/ref=sr_1_1?keywords=fowler+passionate+programmer&qid=1584116022&sr=8-1)
 - Scott Berkun, [Making Things Happen: Mastering Project Management](https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718/ref=sr_1_1?keywords=berkun+making+things+happen&qid=1584116312&sr=8-1)
+- David Allen, [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0670899240/ref=sr_1_4?crid=37IFWQA0CBRYY&keywords=getting+things+done&qid=1584383239&sprefix=getting+things+done%2Caps%2C199&sr=8-4)
 - Atul Gawande, [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000/ref=sr_1_3?crid=38SGX2PGOW99O&keywords=atul+gawande&qid=1584116254&sprefix=atul+g%2Caps%2C182&sr=8-3)
 - Michael Lopp, [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?keywords=lopp+managing+humans&qid=1584116118&sr=8-1)
 
