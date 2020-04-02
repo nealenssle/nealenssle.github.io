@@ -117,6 +117,8 @@ My goal for one-on-ones is very simple: I want us to get to know each other bett
 
 Really, one-on-ones are about building relationships. Yes, that's as soft and fluffy as it sounds. The main thing is: when things go sideways, I don't want that to be the first time we've spoken in three weeks. I want us to have a solid working relationship (know what makes each other tick) so we can communicate effectively during the crisis. 
 
+I consider one-on-ones to be my most important meetings. I may move them from time to time (and you should feel free to move them as well), but I will only very rarely cancel them. 
+
 To be clear: I want our one-on-one to be a safe place; if this isn't the case please tell my boss/HR.
 
 <a class="anchor" name="feedback-anchor"></a>
