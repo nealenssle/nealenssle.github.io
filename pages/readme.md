@@ -18,6 +18,7 @@ This is my **[manager README](https://www.google.com/search?q=manager+readme)**,
 <ul class="toc">
     <li><a href="#manager-job-anchor">What do managers even do?</a></li>
     <li><a href="#expectations-anchor">My core expectations</a></li>
+    <li><a href="#superpower-anchor">My superpower</a></li>
     <li><a href="#say-anchor">Things you may hear me say</a></li>
     <li><a href="#do-anchor">Things you will probably see me do</a></li>
     <li><a href="#do-not-anchor">Things you will almost never see me do</a></li>
@@ -58,6 +59,12 @@ Managers are communicators. Managers are coordinators. Managers are facilitators
 **Safety, learning, and growth.** A major part of my job as a manager is to help create safety for individuals and teams. I try to do this by modeling the kind of behavior I like to see, which includes asking lots of questions when you don't fully understand, and acknowledging risks and the likelihood that we will make mistakes along the way and occasionally fail. The key, for me, is to make sure we are learning and growing along the way. As long as we are not making the exact same mistakes over and over again we are growing, and so yes, I do care deeply about retrospectives, post-mortems, after-action reports, RCAs, and direct feedback, and I try to fully engage and use these tools to help us all get better. Also: I try very hard to keep a sharp eye out for behaviors (from anyone) that detract from making people feel (physically, intellectually, emotionally, and in all other ways) safe. You should let me know if you see/hear anything like this, and you can expect me to take action when this happens. 
 
 **Delivery and quality.** At the end of the day we're here to deliver high-quality software. That's our job, in a nutshell. And so, yes, I do expect folks to spend time thinking about how long something will take (this is hard), provide the best estimate possible (this is also hard), and then make a commitment to work hard to deliver what they said they'd deliver. **Or**, if/when that turns out to not be possible (again, mistakes will be made and surprises will happen), I expect everyone to communicate to the team as soon as possible about what needs to change. Likewise: Quality is critical, and most quality problems end up being solvable with better planning (TDD is essentially a planning practice), better communication (did you talk through the test cases with QA?), or better collaboration (two or three heads are better than one, which is why we sometimes do things like pairing, and why we always do code reviews).
+
+<a class="anchor" name="superpower-anchor"></a>
+
+## My superpower 
+
+I like to say that if I have a super-power as a manager, it's probably "asking stupid questions". I do this for two reasons. First, I think as engineers we tend to act like we understand things more than we actually do. It's a function of our job -- we're supposed to be smart, so we nod and smile and agree even when we may not fully understand what's being discussed. So by asking stupid questions I try to help make sure we're all actually on the same page, and that we're getting to the real root understanding of whatever technical problem we're trying to solve. Second, I ask stupid questions as a way to create safe spaces. I think if folks see leaders saying things like "I don't know", and "tell me more", and "help me understand, and "how does that work", it helps everyone else on the team feel comfortable and, ultimately, empowered. On my teams it's okay to not know the answer, and it's okay to ask for help. Again: Our job isn't actually to look smart, but rather to work together to build the right things in the right ways.
 
 <a class="anchor" name="say-anchor"></a>
 
@@ -101,6 +108,7 @@ Managers are communicators. Managers are coordinators. Managers are facilitators
 
 - Ghosting one-on-ones.
 - Making decisions without asking questions first.
+- Making decisions without being able to tell you why. (We may disagree on the why, and that's okay).
 - Telling you exactly how to build something.
 - Telling you exactly how long something will (or should) take.
 - Giving negative feedback about individuals in public.
@@ -161,7 +169,7 @@ Project management boils down to knowing who is doing what by when. It's that si
 
 ## On technology
 
-My own roots as an engineer are as a "full stack" web applications developer (yes, at one point I even briefly had a "Webmaster" title!). I'm the kind of developer who enjoys talking about everything from the structure of the database, to how we're handling business logic decisions, to how things should look on the page (colors, spacing, and fonts, oh my!), to how to create optimal user flows through the system. I have experience working with both front-end and back-end teams and technologies, and I've led user experience design teams as well. I don't have as much experience on the infrastructure or networking side of things yet, but I'm always trying to learn more.
+My own roots as an engineer are as a "full stack" web applications developer (yes, at one point I even briefly had a "Webmaster" title!). I'm the kind of developer who enjoys talking about everything from the structure of the database, to API design or how we're handling business logic decisions, to how things should look on the page (colors, spacing, and fonts, oh my!), to how to create optimal user flows through the system. I have experience working with front-end, middleware, and back-end teams and technologies, and I've led user experience design teams as well. 
 
 I'm generally pretty agnostic with regards to specific technologies and frameworks. My go-to language is [Ruby](https://www.ruby-lang.org/en/), but I firmly believe that there are different tools for different jobs. 
 
@@ -218,7 +226,7 @@ I actually love these. I've been both an ENTJ and an INTJ (borderline E/I) on My
 
 ## Outside of work
 
-I’m happily married and the proud father of two pretty amazing youngsters, Anna and Noah. In my free time I enjoy hiking, camping, reading, the occasional romp through Skyrim, and playing D&D when I can find time. I volunteer on the board of directors at Flagstaff Academy, where the kids attend charter school (though Anna is now off to high school in the fall!). I also generally try to help Tara, my amazing wife, shine as an elementary school special-education teacher in the St. Vrain Valley School District. The four of us, along with [Oliver](https://www.icloud.com/photos/#0IMlKR8s0YGCEJyMLNcxCDxKw) the cat, live in sunny Longmont, Colorado.
+I’m happily married and the proud father of two pretty amazing youngsters. In my free time I enjoy hiking, camping, reading, the occasional romp through Skyrim, and playing D&D with family and friends when I can find the time. I used to volunteer on the board of directors at Flagstaff Academy, where the kids attended charter school. I also generally try to help Tara, my amazing wife, shine as an elementary school special-education teacher in the St. Vrain Valley School District. The four of us, along with Oliver the cat, live in sunny Longmont, Colorado.
 
 <a class="anchor" name="reading-anchor"></a>
 
@@ -228,7 +236,7 @@ Here is a very short list of books that I consider "required reading". I'd love 
 
 **Non-Fiction**
 
-- Robert C. Martin, [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_2?keywords=martin+clean+code&qid=1584115833&sr=8-2)
+- Robert C. Martin, [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_2?keywords=martin+clean+code&qid=1584115833&sr=8-2) (Note: I don't agree with Uncle Bob's politics. I do agree with most of his thoughts on writing clean code).
 - Martin Fowler, [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?keywords=fowler+refactoring&qid=1584115936&sr=8-1)
 - David Thomas and Andrew Hunt, [The Pragmatic Programmer: Your Journey to Mastery](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_2?crid=28C0VNB8WGSBW&keywords=pragmatic+programmer&qid=1584116054&sprefix=pragmatic%2Caps%2C183&sr=8-2)
 - Michael Feathers, [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=sr_1_1?keywords=feathers+legacy&qid=1584115975&sr=8-1)
@@ -237,11 +245,14 @@ Here is a very short list of books that I consider "required reading". I'd love 
 - David Allen, [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0670899240/ref=sr_1_4?crid=37IFWQA0CBRYY&keywords=getting+things+done&qid=1584383239&sprefix=getting+things+done%2Caps%2C199&sr=8-4)
 - Atul Gawande, [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000/ref=sr_1_3?crid=38SGX2PGOW99O&keywords=atul+gawande&qid=1584116254&sprefix=atul+g%2Caps%2C182&sr=8-3)
 - Michael Lopp, [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?keywords=lopp+managing+humans&qid=1584116118&sr=8-1)
+- Richard Rumelt, [Good Strategy / Bad Strategy: The Difference and Why it Matters](https://www.amazon.com/Good-Strategy-Bad-difference-matters/dp/1781256179/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1669378673&sr=8-1)
+- L. David Marquet, [Turn the Ship Around: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Building-Breaking/dp/0241250943/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1669378392&sr=8-1)
 
 **Fiction**
 
 - Frank Herbert, [Dune](https://www.amazon.com/Complete-Messiah-Children-Heretics-Chapterhouse/dp/B07WDM3D5T/ref=sr_1_2?keywords=dune+herbert&qid=1584119882&sr=8-2)
 - Andy Weir, [The Martian](https://www.amazon.com/Broadway-Books-Martian-Mass-Market/dp/B07DR3NM1S/ref=sr_1_2?keywords=the+martian+book&qid=1584119962&sr=8-2)
+- Andy Weir, [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135229/ref=sr_1_1?keywords=hail+mary+weir&qid=1669378501&sr=8-1)
 - Ursula K. LeGuin, [A Wizard of Earthsea](https://www.amazon.com/Earthsea-First-Four-Books-Puffin/dp/014137053X/ref=sr_1_3?keywords=wizard+of+earthsea&qid=1584119816&sr=8-3)
 - Orson Scott Card, [Ender's Game](https://www.amazon.com/Orson-Scott-Card-Enders-Paperback/dp/B01FODE43Q/ref=sr_1_6?keywords=ender%27s+game&qid=1584119920&sr=8-6)
 - Patrick Rothfuss, [The Name of the Wind](https://www.amazon.com/Patrick-Rothfuss-Name-Kingkiller-Chronicles/dp/B0082PFLY0/ref=sr_1_4?crid=IKWGDGET3BGM&keywords=rothfuss+name+of+the+wind&qid=1584120004&sprefix=rothfuss+%2Caps%2C182&sr=8-4)
@@ -249,4 +260,4 @@ Here is a very short list of books that I consider "required reading". I'd love 
 <br />
 <br />
 
-_Last update: March 13, 2020_
+_Last update: November 25, 2022_
