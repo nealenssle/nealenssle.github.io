@@ -105,6 +105,8 @@ permalink: /quotes
 
 "A leader is best when people barely know he exists.  When his work is done, his aim fulfilled, they will say:  We did it ourselves." &ndash; _Lao Tzu_
 
+"Become the kind of leader that people would follow voluntarily; even if you had no title or position." &ndash; _Brian Tracy_
+
 "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing." &ndash; _Theodore Roosevelt_
 
 "Coming to grips with the crazy in people, understanding it, dwelling in it, making it work, is the real job of management." &ndash; _Joe Dunn_
@@ -123,9 +125,19 @@ permalink: /quotes
 
 "There are always two or three sides to every story." &ndash; _Neal Enssle_
 
+"A ruler should be slow to punish and swift to reward." &ndash; _Ovid_
+
+"He who has great power should use it lightly." &ndash; _Seneca_
+
+"Great leaders are almost always great simplifiers, who can cut through argument, debate, and doubt to offer a solution everybody can understand." &ndash; _General Colin Powell_
+
 "Be productive, be fantastically clever when necessary, speak truth to power, hit your dates, and don't ship crap." &ndash; _Michael Lopp_
 
 "Even in such technical lines as engineering, about 15% of one's financial success is due one's technical knowledge and about 85% is due to skill in human engineering, to personality and the ability to lead people." &ndash; _Dale Carnegie_
+
+"Never doubt that a small group of thoughtful, concerned citizens can change world. Indeed it is the only thing that ever has." &ndash; _Margaret Mead_
+
+"The art of leadership is saying no, not saying yes. It is very easy to say yes." &ndash; _Tony Blair_
 
 "Enthusiasm is table stakes for a junior developer." &ndash; _Neal Enssle_
 
