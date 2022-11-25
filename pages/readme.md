@@ -75,6 +75,8 @@ I like to say that if I have a super-power as a manager, it's probably "asking s
 - I believe in agile with a small "a".
 - What do *you* think?
 - This is probably a stupid question, but...
+- I don't know.
+- How does that work?
 - Have we tried asking the other team?
 - Who do you know who might be able to help with this?
 - This is more about shades of gray than black/white...
@@ -191,7 +193,7 @@ I do feel that curiosity is extremely important for engineers. Things change and
 - This also means I will almost never ask you to work late or work weekends or holidays unless there's a true emergency. Again: Emergencies happen sometimes, but I'll be clear about what needs doing, what my expectations are, and will do my best to make sure we do what we can to make you whole for any extra time.
 - I am a morning person. Five o'clock in the morning is not particularly early for me to be up and about. I will try to avoid messaging you early, but sometimes it happens. 
 - I am not a night owl. I'm usually in bed by 9:00PM. That being said, if you ever have an emergency (e.g. you're en route to the hospital or something like that) don't hesitate to call. 
-- Sometimes I work on the weekends or holidays. This is my choice. It is not my expectation for you. If you see me working early, late, on weekends, or holidays, please know this is not some weird subtle ploy to get you to work more, or to feel bad, or to feel sorry for me. Again: If the organization needs extra effort I will ask you for that explicitly (and hopefully provide a damn good reason).
+- Sometimes I work on the weekends or holidays. This is my choice. It is not my expectation for you. If you see me working early, late, on weekends, or holidays, please know this is not some weird subtle ploy to get you to work more, or to feel bad, or to feel sorry for me. I do believe that sometimes life gets in the way of work and demands that we work outside normal hours. Likewise, sometimes inspiration about work strikes at odd hours, and that's okay too. Again: If the organization needs extra effort I will ask you for that explicitly (and hopefully provide a damn good reason).
 
 <a class="anchor" name="personality-anchor"></a>
 
