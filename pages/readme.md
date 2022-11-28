@@ -181,6 +181,18 @@ With regards to "architecture": In general, I think that good ideas can come fro
 
 I do feel that curiosity is extremely important for engineers. Things change and evolve rapidly in our field, and it's important for folks to dedicate some time to learning and growing their skillset. "Growth" conversations with me will definitely include discussions about "what are you learning?" or "what technolgy trends are you most excited about?".
 
+Some of my pet **technology principles** include:
+- [Single responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
+- [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+- [Modular design](https://en.wikipedia.org/wiki/Modular_design)
+- [Information hiding](https://en.wikipedia.org/wiki/Information_hiding)
+- [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)
+- [Fail fast](https://en.wikipedia.org/wiki/Fail-fast)
+- [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
+- [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+- [Agile manifesto](https://agilemanifesto.org/)
+- [Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
 <a class="anchor" name="calendars-anchor"></a>
 
 ## Calendars and communications
