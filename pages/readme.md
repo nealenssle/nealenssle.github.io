@@ -38,7 +38,7 @@ This is my **[manager README](https://www.google.com/search?q=manager+readme)**,
 
 ## What do managers even do?
 
-**My job is:** To listen to you with full attention, empathy, and respect; to help and support you every day; to share responsibility with you; to help provide context for what you’re working on (both day-to-day and big picture); to occasionally act as a guide, sounding board, or gadfly for your ideas; to connect you to others in the team or company who might be able to help; to advocate for you and the team with the rest of the company; and to help you grow and develop professionally. 
+**My job is:** To listen to you with full attention, empathy, and respect; to help and support you every day; to share responsibility with you; to help provide context and priority for what you’re working on (both day-to-day and big picture); to occasionally act as a guide, sounding board, or gadfly for your ideas; to connect you to others in the team or company who might be able to help; to advocate for you and the team with the rest of the company; and to help you grow and develop professionally. 
 
 I believe my job is to be a catalyst: get the right folks together; create safe spaces for dialogue and innovation; help make and maintain connections; foster communication, collaboration, and consensus; and help drive toward decisions and support attainable solutions. 
 
