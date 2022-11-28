@@ -93,8 +93,6 @@ permalink: /quotes
 
 "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing." &ndash; _Dick Brandon_
 
-"The trouble with programmers is that you can never tell what a programmer is doing until it's too late." &ndash; _Seymour Cray_
-
 <a name="leadership-anchor"></a>
 <br />
 <hr /><br />
