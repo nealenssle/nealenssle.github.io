@@ -105,6 +105,8 @@ permalink: /quotes
 
 "Become the kind of leader that people would follow voluntarily; even if you had no title or position." &ndash; _Brian Tracy_
 
+"Imagine if we measured success by the amount of safety that people felt in our presence." &ndash; _Jonathan Louis Dent_
+
 "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing." &ndash; _Theodore Roosevelt_
 
 "Coming to grips with the crazy in people, understanding it, dwelling in it, making it work, is the real job of management." &ndash; _Joe Dunn_
