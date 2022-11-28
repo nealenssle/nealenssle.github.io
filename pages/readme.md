@@ -18,7 +18,7 @@ This is my **[manager README](https://www.google.com/search?q=manager+readme)**,
 <ul class="toc">
     <li><a href="#manager-job-anchor">What do managers even do?</a></li>
     <li><a href="#expectations-anchor">My core expectations</a></li>
-    <li><a href="#superpower-anchor">My superpower</a></li>
+    <li><a href="#superpower-anchor">My "superpower"</a></li>
     <li><a href="#say-anchor">Things you may hear me say</a></li>
     <li><a href="#do-anchor">Things you will probably see me do</a></li>
     <li><a href="#do-not-anchor">Things you will almost never see me do</a></li>
@@ -62,9 +62,9 @@ Managers are communicators. Managers are coordinators. Managers are facilitators
 
 <a class="anchor" name="superpower-anchor"></a>
 
-## My superpower 
+## My "superpower" 
 
-I like to say that if I have a super-power as a manager, it's probably "asking stupid questions". I do this for two reasons. First, I think as engineers we tend to act like we understand things more than we actually do. It's a function of our job -- we're supposed to be smart, so we nod and smile and agree even when we may not fully understand what's being discussed. So by asking stupid questions I try to help make sure we're all actually on the same page, and that we're getting to the real root understanding of whatever technical problem we're trying to solve. Second, I ask stupid questions as a way to create safe spaces. I think if folks see leaders saying things like "I don't know", and "tell me more", and "help me understand, and "how does that work", it helps everyone else on the team feel comfortable and, ultimately, empowered. On my teams it's okay to not know the answer, and it's okay to ask for help. Again: Our job isn't actually to look smart, but rather to work together to build the right things in the right ways.
+I like to say that if I have a "superpower" as a manager, it's probably "asking stupid questions". I do this for two reasons. First, I think as engineers we tend to act like we understand things more than we actually do. It's a function of our job -- we're supposed to be smart, so we nod and smile and agree even when we may not fully understand what's being discussed. So by asking stupid questions I try to help make sure we're all actually on the same page, and that we're getting to the real root understanding of whatever technical problem we're trying to solve. Second, I ask stupid questions as a way to create safe spaces. I think if folks see leaders saying things like "I don't know", and "tell me more", and "help me understand, and "how does that work", it helps everyone else on the team feel comfortable and, ultimately, empowered. On my teams it's okay to not know the answer, and it's okay to ask for help. Again: Our job isn't actually to look smart, but rather to work together to build the right things in the right ways.
 
 <a class="anchor" name="say-anchor"></a>
 
