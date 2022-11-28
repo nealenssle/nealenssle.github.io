@@ -123,8 +123,6 @@ permalink: /quotes
 
 "All good work is done in defiance of management." &ndash; _Bob Woodward_
 
-"There are always two or three sides to every story." &ndash; _Neal Enssle_
-
 "A ruler should be slow to punish and swift to reward." &ndash; _Ovid_
 
 "He who has great power should use it lightly." &ndash; _Seneca_
@@ -138,6 +136,12 @@ permalink: /quotes
 "Never doubt that a small group of thoughtful, concerned citizens can change world. Indeed it is the only thing that ever has." &ndash; _Margaret Mead_
 
 "The art of leadership is saying no, not saying yes. It is very easy to say yes." &ndash; _Tony Blair_
+
+"The leader has to be practical and a realist yet must talk the language of the visionary and the idealist." &ndash; _Eric Hoffer_
+
+"Management is about arranging and telling. Leadership is about nurturing and enhancing." &ndash; _Tom Peters_
+
+"There are always two or three sides to every story." &ndash; _Neal Enssle_
 
 "Enthusiasm is table stakes for a junior developer." &ndash; _Neal Enssle_
 
