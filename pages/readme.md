@@ -192,6 +192,7 @@ Some of my pet **technology principles** include:
 - [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 - [Agile manifesto](https://agilemanifesto.org/)
 - [Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- [Risk vs. reversability decision-making matrix](https://fourweekmba.com/decision-making-matrix/)
 
 <a class="anchor" name="calendars-anchor"></a>
 
