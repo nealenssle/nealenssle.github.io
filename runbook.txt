@@ -6,4 +6,12 @@ https://help.github.com/articles/using-jekyll-with-pages/
 
 Start:
 
+bundle install
 bundle exec jekyll serve
+
+Notes:
+
+2023-01-08: Major issues installing on new M1 Macbook. Error installing eventmachine gem. Fix per https://stackoverflow.com/questions/74196882/cannot-install-jekyll-eventmachine-on-m1-mac was to run: 
+    gem install eventmachine -v '1.2.7' -- --with-openssl-dir=$(brew --prefix openssl)
+
+
