@@ -255,12 +255,14 @@ Here is a very short list of books that I consider "required reading". I'd love 
 - Martin Fowler, [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?keywords=fowler+refactoring&qid=1584115936&sr=8-1)
 - David Thomas and Andrew Hunt, [The Pragmatic Programmer: Your Journey to Mastery](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_2?crid=28C0VNB8WGSBW&keywords=pragmatic+programmer&qid=1584116054&sprefix=pragmatic%2Caps%2C183&sr=8-2)
 - Michael Feathers, [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=sr_1_1?keywords=feathers+legacy&qid=1584115975&sr=8-1)
+- Sandi Metz, [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.amazon.com/Practical-Object-Oriented-Design-Agile-Primer-dp-0134456475/dp/0134456475/ref=dp_ob_title_bk)
 - Chad Fowler, [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U/ref=sr_1_1?keywords=fowler+passionate+programmer&qid=1584116022&sr=8-1)
 - Scott Berkun, [Making Things Happen: Mastering Project Management](https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718/ref=sr_1_1?keywords=berkun+making+things+happen&qid=1584116312&sr=8-1)
 - David Allen, [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0670899240/ref=sr_1_4?crid=37IFWQA0CBRYY&keywords=getting+things+done&qid=1584383239&sprefix=getting+things+done%2Caps%2C199&sr=8-4)
 - Atul Gawande, [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000/ref=sr_1_3?crid=38SGX2PGOW99O&keywords=atul+gawande&qid=1584116254&sprefix=atul+g%2Caps%2C182&sr=8-3)
 - Michael Lopp, [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?keywords=lopp+managing+humans&qid=1584116118&sr=8-1)
 - Richard Rumelt, [Good Strategy / Bad Strategy: The Difference and Why it Matters](https://www.amazon.com/Good-Strategy-Bad-difference-matters/dp/1781256179/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1669378673&sr=8-1)
+- Simon Sinek, [Leaders Eat Last](https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1699545288&sr=8-1)
 - L. David Marquet, [Turn the Ship Around: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Building-Breaking/dp/0241250943/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1669378392&sr=8-1)
 
 **Fiction**
@@ -275,4 +277,4 @@ Here is a very short list of books that I consider "required reading". I'd love 
 <br />
 <br />
 
-_Last update: November 25, 2022_
+_Last update: November 9, 2023_
