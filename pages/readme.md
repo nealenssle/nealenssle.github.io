@@ -26,6 +26,8 @@ This is my **[manager README](https://www.google.com/search?q=manager+readme)**,
     <li><a href="#feedback-anchor">Feedback</a></li>
     <li><a href="#growth-anchor">Growth, coaching, career development</a></li>
     <li><a href="#process-anchor">Process and project management</a></li>
+    <li><a href="#accountability-anchor">Failure and accountability</a></li>
+    <li><a href="#focus-anchor">Focus and predictability</a></li>
     <li><a href="#technology-anchor">On technology</a></li>
     <li><a href="#calendars-anchor">Calendars and communication</a></li>
     <li><a href="#personality-anchor">Personality and quirks</a></li>
@@ -72,6 +74,9 @@ I like to say that if I have a "superpower" as a manager, it's probably "asking 
 
 - I believe that 95% of our problems can be solved with better communication.
 - There are almost always two or three sides to every story.
+- What did we learn here?
+- Our goal should be to make *new* mistakes.
+- Let's get clear on the priorities, first...
 - I believe in agile with a small "a".
 - What do *you* think?
 - This is probably a stupid question, but...
@@ -161,11 +166,33 @@ One of the best ways I've found to help people improve and develop is to delegat
 
 <a class="anchor" name="process-anchor"></a>
 
-## Process and project management
+## Process, project management, and accountability
 
 I believe in Agile, but with a small "a". That is: I believe in the principles originally outlined in the [Agile Manifesto](https://agilemanifesto.org/), as opposed to being strongly aligned with any specific system (e.g. Scrum, Kanban, SAFE, etc.). For me, iterating the process via frequent retrospectives is the key. Put differently: I think the most important thing in any process is to have a means and mechanism for review and evolution of the process itself. On a regular basis we need to pause, review, and look to keep what's working and change what's not. 
 
-Project management boils down to knowing who is doing what by when. It's that simple, but it's also extremely important. I believe it is a valid expectation for the business to want to know what folks are working on and when they can expect to see features and improvements delivered. Project management is just the means of managing that information. Again: I'm generally very flexible with regards to the specifics of how we measure and communicate project status, but I think it's a fair expectation for us as engineers to participate positively in project management processes.
+Project management boils down to knowing who is doing what by when. It's that simple, but it's also extremely important. I believe it is a valid expectation for the business to want to know what folks are working on and when they can expect to see features and improvements delivered. Project management is just the means of managing that information and making it visible to the right stakeholders at the right time and in the right way. Importantly: This information doesn't always just magically bubble up out of the ground. I'm generally very flexible with regards to the specifics of how we measure and communicate project status, but I think it's a fair expectation for us as engineers to participate positively in project management processes. So, yeah, sometimes we all need to fill out the TPS report, at least until we can find a way to automate things.
+
+<a class="anchor" name="accountability-anchor"></a>
+
+## Failure and accountability
+
+I often get asked questions like "how do you hold individuals on your team accountable for failure?". This question always makes me at least a little bit uncomfortable, because it often comes with overtones of "we just want to know who gets fired when things go wrong". In my experience, it's almost never the fault of a single individual when things go wrong. Over the past 15+ years, looking back at every major production incident, I can't remember a time when the problem or root cause wasn't multifaceted. Usually the "root cause" ends up being a failure of multiple human beings and multiple processes simultaneously, and I've never experienced a situation where the failures were intentional. In other words, the cause of failure is almost always a "we" problem and not a "he or she" problem.
+
+Not that any of this absolves individuals of responsibility for their work. I start with the understanding that everyone on the team is a professional with high integrity. I believe it is reasonable to expect a professional to be able to provide accurate estimates, and to produce high-quality work that they're willing to stand behind. So that's how I like to run things. I'll ask you for an estimate, and will assume that you're committing to hitting the date you set. If that becomes impossible (and yeah, I get it, this happens for all kinds of reasons...), I'll expect you to communicate with me and the team honestly and proactively about why the estimate needs to change and what the new estimate should be. This is a major distinction between junior and senior team members: Junior team members need folks to check in with them; senior team members communicate proactively about their status. 
+
+Likewise, I think it's reasonable to expect that professional programmers own the quality of their deliverables. Back when I was writing a lot more code than I do today, my philosophy was that I would double dare or triple dare QA to find a bug in my code, and if they did, I felt shame. So yes, I expect you to test your own stuff (and I mean both manually and with automated tests), or find ways to work with the team to get enough eyes on the change so that you feel highly confident and willing to stake your reputation as a professional on the quality of your work. And yeah, we're going to miss things, but let's all commit to actively learning from our mistakes and making those misses the exception instead of the rule.
+
+Ultimately, of course, the person responsible for failure is me, the manager. Which is why I put so much emphasis on communication and honesty, and on making sure it's safe to talk about our mistakes. If we don't know there's a problem, then it's unlikely I'm going to be able to help prioritize a fix. So I definitely want to hear about problems or areas of concern. (Note: Much of my job boils down to risk assessment and balancing priorities, so be prepared for me to say things that sound like: "I got it. That's not great but we need to prioritize other work right now. I'll assume the risk here and communicate it, but let's keep moving on Project Hamsterdance...").
+
+Estimates are hard, and quality can be a moving target, but the key is that we all agree to hold ourselves responsible as professionals and commit to learning and improving every day. 
+
+<a class="anchor" name="focus-anchor"></a>
+
+## Focus and predictability
+
+In my experience, most problems with productivity are actually problems with focus. This holds for both individuals, teams, and entire organizations. If the roadmap is non-existent, ignored, lacks real prioritization, or is otherwise a mess, then the organziation and its teams are not going to be as productive as the business would like. And if individual team members are juggling six different "top priorities" on a daily basis, then forward progress is going to be slow. 
+
+So a good part of my job as a manager is creating focus. At the macro level this looks like me having lots of conversations with the rest of the organization about prioritizing projects on the roadmap -- i.e. engineering's "to-do" list. At the micro level, this looks like me having conversations with teams and individuals trying to clarify priorities (i.e. which "top priority" is actually most important), eliminating distractions (e.g. unnecessary meetings), and breaking down work into smaller pieces (because doing work in smaller pieces make it easier to see and show progress).
 
 <a class="anchor" name="technology-anchor"></a>
 
