@@ -304,4 +304,4 @@ Here is a very short list of books that I consider "required reading". I'd love 
 <br />
 <br />
 
-_Last update: November 9, 2023_
+_Last update: 2023-12-13_
