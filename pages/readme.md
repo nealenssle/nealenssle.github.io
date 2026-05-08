@@ -300,8 +300,10 @@ Here is a very short list of books that I consider "required reading". I'd love 
 - Ursula K. LeGuin, [A Wizard of Earthsea](https://www.amazon.com/Earthsea-First-Four-Books-Puffin/dp/014137053X/ref=sr_1_3?keywords=wizard+of+earthsea&qid=1584119816&sr=8-3)
 - Orson Scott Card, [Ender's Game](https://www.amazon.com/Orson-Scott-Card-Enders-Paperback/dp/B01FODE43Q/ref=sr_1_6?keywords=ender%27s+game&qid=1584119920&sr=8-6)
 - Patrick Rothfuss, [The Name of the Wind](https://www.amazon.com/Patrick-Rothfuss-Name-Kingkiller-Chronicles/dp/B0082PFLY0/ref=sr_1_4?crid=IKWGDGET3BGM&keywords=rothfuss+name+of+the+wind&qid=1584120004&sprefix=rothfuss+%2Caps%2C182&sr=8-4)
+- Martha Wells, [Murderbot Diaries](https://www.amazon.com/Murderbot-Collection-Artificial-Condition-Telemetry/dp/1068472790/ref=sr_1_3?adgrpid=193183506944&dib=eyJ2IjoiMSJ9.U0LrdnWHcaKtAv7jneXYTq6h_HTkGuzdfdNyfaBbfenLhbhl2gkCe18qWj_8ziAO8mXXvlsG0Y6SXojM96R_9f2XJ9uBBFrql6_wSPqkKhaCU5QV8hoWf9hCrawMOWRzT0FXMgp0OMZaAOwt5C6V6kxDw4EWIfR11El5OL4xAOoo5lGTco-MQtkCBdw5kXL17WExQqVH5zNirj5xvgN7fs3EbGd3w7YG_6InF7TqIvs.tP-e_5ToaRIZd3MDQwp4-cMSdjOwSjfjch2G1HKPQdI&dib_tag=se&hvadid=792821411984&hvdev=c&hvexpln=0&hvlocphy=9028880&hvnetw=g&hvocijid=479035565651423680--&hvqmt=e&hvrand=479035565651423680&hvtargid=kwd-565583156338&hydadcr=25523_13837540_2441499&keywords=martha+wells+murderbot+series&mcid=5421905613b7393fb95d1d4fe05a39da&qid=1778267993&sr=8-3)
+- Matt Dinniman, [Dungeon Crawler Carl](https://www.amazon.com/Dungeon-Crawler-Carl-Gamelit-Adventure-ebook/dp/B08BKGYQXW/ref=sr_1_4?crid=9JRO1N96I8HK&dib=eyJ2IjoiMSJ9.kG-rG4IHa70w4Z0DxWhBfsElyy_QIV6PwqWSnB9j56rnwcjPRXqrfeY3kDkO15rL_-6aGzeZjnDLnijq247acO7m85fYf6o3M7hm8aoOGmyA2Tpl4l92FiMJCQSMoW8z0GYyfWAmYfaho2OQhy6Gz_AQq2tvQQ_lxP-KYvMAg2OHPfXsBIvcQNQhPC1p-6jqsVMEkrwk0ksq7aLU-4Kptno7EM0jnN2I3ogXGsg_EiE.__U98bP-zhMcjTw5J653exOVFAxlbj5vUQGm-01b67Y&dib_tag=se&keywords=dungeon+crawler+carl&qid=1778268061&sprefix=dungeon+%2Caps%2C273&sr=8-4)
 
 <br />
 <br />
 
-_Last update: 2023-12-13_
+_Last update: 2026-05-08_
